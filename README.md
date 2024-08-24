@@ -5,26 +5,34 @@ Consumer Complaint Data Analysis
 
 An interactive Excel dashboard to analyze and visualize customer complaint data, providing insights into complaint volumes, distribution by channels, geographical impact, status, and common issues.
 
-**Features:**
+   **Features:**
 
-    Total Complaints Overview: Summary of complaints by states and products.
-    Trends Analysis: Yearly complaint volume trends.
-    Geographical Distribution: Complaints by state.
-    Communication Channels: Distribution of complaints by submission method.
-    Complaint Status: Breakdown of resolved and unresolved complaints.
-    Common Issues: Highlight of frequent consumer issues.
-    Slicers: Filters for year and submission channel.
+**Total Complaints Overview:** Summary of complaints by states and products.
 
-    
-**Troubleshooting**
+**Trends Analysis:** Yearly complaint volume trends.
 
--Slicer Connections: Ensure all Pivot Tables share the same data source.
+**Geographical Distribution:** Complaints by state.
 
--Chart Data Range: Modify data through Select Data if non-editable.
+**Communication Channels:** Distribution of complaints by submission method.
+
+**Complaint Status:** Breakdown of resolved and unresolved complaints.
+
+**Common Issues:** Highlight of frequent consumer issues.
+
+**Slicers:** Filters for year and submission channel.
+
+
+
 
 **Recommendations**
 
-Enhance Digital Platforms: Focus on web-based complaint channels.
-Target High-Complaint States: Prioritize California, Florida, and Texas.
-Resolve Pending Complaints: Address the 4% ongoing complaints.
-Monitor Trends: Analyze post-2021 decline in complaints.
+**-Enhance Digital Platforms:** Focus on web-based complaint channels.
+
+**-Target High-Complaint States:** Prioritize California, Florida, and Texas.
+
+**-Resolve Pending Complaints:** Address the 4% ongoing complaints.
+
+**-Monitor Trends:** Analyze post-2021 decline in complaints.
+
+
+**Video Link:** https://youtu.be/9b4kRMVz_ss?si=M2dBK9KSOp38O6qy
