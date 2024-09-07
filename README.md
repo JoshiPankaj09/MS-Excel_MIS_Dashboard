@@ -5,6 +5,10 @@
 
 An interactive Excel dashboard to analyze and visualize customer complaint data, providing insights into complaint volumes, distribution by channels, geographical impact, status, and common issues.
 
+![Project Screenshot]([https://github.com/username/repository/blob/main/images/screenshot.png](https://github.com/JoshiPankaj09/MS-Excel_MIS_Dashboard/blob/main/Screenshot%202024-08-24%20132736.png))
+
+
+
    **Features:**
 
 **Total Complaints Overview:** Summary of complaints by states and products.
